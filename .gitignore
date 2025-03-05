@@ -1,0 +1,16 @@
+# AWS CDK artifacts
+cdk.out
+cdk.context.json
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# OS-specific files
+.DS_Store
