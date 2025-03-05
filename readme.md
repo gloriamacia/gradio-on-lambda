@@ -24,8 +24,8 @@ Deploying a Gradio app on AWS Lambda is particularly compelling because it lever
 ## **Setup & Deployment**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/gloriamacia/gradio-on-lambda.git
+cd gradio-on-lambda
 ```
 
 ### **2️⃣ Install Dependencies**
