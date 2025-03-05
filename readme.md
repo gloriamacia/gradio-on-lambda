@@ -3,6 +3,8 @@
 ## **Overview**
 This project deploys a **Gradio** application as an **AWS Lambda function** using **AWS CDK**. The Lambda function is packaged as a **Docker container** and exposed via a **public function URL**.
 
+![image](img.png)
+
 ## **Main Idea**
 
 This code builds a lightweight Docker container using Python 3.12-slim, sets up an environment optimized for AWS Lambda by including a Lambda web adapter, and installs required dependencies before running an application. The Python script defines a simple Gradio web interface where a function returns a greeting message based on user input.
